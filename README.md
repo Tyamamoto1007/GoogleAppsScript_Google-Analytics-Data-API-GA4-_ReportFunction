@@ -33,5 +33,7 @@ Google Analytics Data APIで実行できる4種類のAPIリクエストを関数
 
 # 作成者(Author)
 Tyamamoto1007
+
 Twitter:[@gas_seo](https://twitter.com/gas_seo)
+
 https://auto-worker.com/blog
