@@ -23,13 +23,18 @@ Google Analytics Data APIで実行できる4種類のAPIリクエストを関数
 
 2.getGa4RunReport()
 →runReportを実行する関数です。ディメンションやメトリクス、データ期間を設定します。
+ 44行目：ディメンションにページタイトルとブラウザ名
+ 45行目：メトリクスにページビュー
+ 46行明：開始日、終了日
+ 
 
 3.getGa4RunRealTimeReport()
 →runRealtimeReportを実行する関数です。ディメンションやメトリクスを設定します。
+　81行目：ディメンションにデバイスカテゴリー
+　82行目：メトリクスにページビュー
 
 4.getGa4RunPivotReport()
 →runPivotReportを実行する関数です。ディメンションやメトリクス、データ期間を設定します。
-
 
 # 作成者(Author)
 Tyamamoto1007
